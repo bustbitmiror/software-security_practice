@@ -1,1 +1,6 @@
-# software-security_practice
+
+# software-security_practice 
+---
+
+
+Тема: Методы обнаружения современных руткитов, актуальные руткиты
